@@ -1,10 +1,3 @@
-# boilerplate-auth-react-redux
+# grant
 
-A boilder plate for a react web app with a redux global store
-
-## Tech used:
-- React
-- Redux
-- Thunk
-- Express
-- Webpack
+Created by Kim Hartley
